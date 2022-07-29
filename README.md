@@ -1,5 +1,7 @@
 # Fastfoood 
 
+**** the demo video about project is also available in the same directory named 'project video' ****
+
 - created a website which is similar to online apps whick takes orders from the user and updates teh cart in the database
 - features include addition to cart,removal from cart,updating the cart,order summary
 - this is mainly built using django framework.
